@@ -19,7 +19,7 @@ ss_config = {
 
 # Template for patch file path
 patch_file = (
-    "/expanse/lustre/scratch/erfan/temp_project/blending/buzzard_v2.0.0_lsst/patch_centers_n{npatch}.fits"
+    "/scratch/gpfs/en7908/blending/buzzard_v2.0.0_lsst/patch_centers_n{npatch}.fits"
 )
 
 # Configuration for covariance calculation
