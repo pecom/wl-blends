@@ -1,0 +1,1817 @@
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n5
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n5
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n5
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n5
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n5
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n5
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n5
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n5
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n5
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n5
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n5
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n5
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n5
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n5
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n5
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n5
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n5
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n5
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n5
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n5
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n5
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n5
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n5
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n5
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n5
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n5
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n5
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n5
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           tiger-h19c1n5
+  Local device:         i40iw0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           tiger-h19c1n5
+  Local device:         i40iw0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            tiger-h19c1n24
+  Device name:           i40iw0
+  Device vendor ID:      0x8086
+  Device vendor part ID: 14286
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+By default, for Open MPI 4.0 and later, infiniband ports on a device
+are not used by default.  The intent is to use UCX for these devices.
+You can override this policy by setting the btl_openib_allow_ib MCA parameter
+to true.
+
+  Local host:              tiger-h19c1n24
+  Local adapter:           hfi1_0
+  Local port:              1
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   tiger-h19c1n24
+  Local device: hfi1_0
+--------------------------------------------------------------------------
+[tiger-h19c1n5:10256] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n5:10256] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n5:10257] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n5:10257] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n5:10258] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n5:10258] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n5:10259] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n5:10259] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n5:10260] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n5:10260] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n5:10261] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n5:10261] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n5:10263] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n5:10263] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n5:10264] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n5:10264] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n5:10255] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n5:10255] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n5:10262] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n5:10262] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04442] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04442] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04461] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04461] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04450] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04450] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04458] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04458] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04460] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04460] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04448] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04448] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04454] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04454] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04431] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04431] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04451] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04451] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04436] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04436] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04457] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04457] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04432] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04432] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04452] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04452] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04459] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04459] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04463] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04463] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04426] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04426] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04425] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04425] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04427] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04427] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04443] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04443] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04456] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04456] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04435] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04435] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04437] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04437] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04446] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04446] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04440] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04440] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04438] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04438] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04428] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04428] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04434] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04434] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04449] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04449] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04439] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04439] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04441] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04441] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04462] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04462] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04455] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04455] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04429] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04429] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04447] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04447] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04444] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04444] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04430] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04430] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04433] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04433] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04445] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04445] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04453] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04453] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[tiger-h19c1n24:04464] 1 more process has sent help message help-mpi-btl-openib.txt / no device params found
+[tiger-h19c1n24:04464] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+slurmstepd: error: poll(): Bad address
+slurmstepd: error: poll(): Bad address
+srun: error: tiger-h19c1n5: task 5: Killed
+srun: Terminating StepId=10628819.0
+slurmstepd: error: *** STEP 10628819.0 ON tiger-h19c1n5 CANCELLED AT 2024-06-20T16:09:41 ***
+srun: error: tiger-h19c1n24: tasks 10-49: Terminated
+srun: error: tiger-h19c1n5: tasks 6-7,9: Terminated
+srun: error: tiger-h19c1n5: tasks 0-4,8: Terminated
+srun: Force Terminated StepId=10628819.0
