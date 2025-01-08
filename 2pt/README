@@ -1,1 +1,5 @@
 Codes to compute 2pt correlations and cosmological inferences given a catalog
+
+
+full_mem doens't use patches to save memory
+subset_shear uses patches and lazy loading to save memory

@@ -4,6 +4,8 @@ import pandas as pd
 import os
 import treecorr
 from mpi4py import MPI
+import argparse
+
 
 pdir = os.getenv("PSCRATCH")
 hdir = os.getenv("HOME")
@@ -31,19 +33,21 @@ ss_config = {
 zsb_dir = '/scratch/gpfs/en7908/blending/buzzard_v2.0.0_lsst_old/zsb/r3/cats'
 
 patch_files=pdir + '/patches/test_patches.fits'
-zsb_file = pdir + '/buzzard/zsb_zs4.csv'
+zsb_file = pdir + '/buzzard/zsb_spec3.csv'
+# zsb_file = pdir + '/buzzard/zsb_12.csv'
 
 
-cat = treecorr.Catalog(zsb_file,
-                       ra_col='ra', dec_col='dec',
-                       g1_col='gamma1', g2_col='gamma2',
-                       ra_units='deg', dec_units='deg',
-                       k_col=5, w_col=8,
-                       delimiter=',', flip_g1=False,
-                       flip_g2=True, patch_centers=patch_files
-                       )
+cat = treecorr.Catalog(zsb_file, ra_col=1, dec_col=2, g1_col=3, g2_col=4, k_col=5, w_col=8,
+                       ra_units='deg', dec_units='deg', delimiter=',', patch_centers=patch_files)
 
-print(cat.g2)
+# cat = treecorr.Catalog(zsb_file, 
+#                        ra_col='ra', dec_col='dec',
+#                        g1_col='gamma1', g2_col='gamma2',
+#                        ra_units='deg', dec_units='deg',
+#                        k_col=5, w_col=8,
+#                        delimiter=',', flip_g1=False,
+#                        flip_g2=True, patch_centers=patch_files
+#                        )
 
 
 if rank==0:
@@ -57,6 +61,8 @@ gg = treecorr.GGCorrelation(
     bin_slop=ss_config["bin_slop"],
     var_method="jackknife",
     sep_units="degrees",
+    verbose=2,
+    num_threads=40
 )
 
 if rank==0:
@@ -69,4 +75,4 @@ if rank==0:
     print("All done! Writing results!", flush=True)
 
 if rank==0:
-    gg.write(f'{pdir}/output/zsb_gg4.out')
+    gg.write(f'{pdir}/output/zsb_gg4_spec.out')
